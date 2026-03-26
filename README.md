@@ -2,7 +2,7 @@
 
 
   [**Project Page**](https://hcis-lab.github.io/CRTP/)
-| [**Paper**]()
+| [**Paper**](https://arxiv.org/abs/2603.23919)
 
 <p align="center">
    <img src="./images/risk_tube_prediction.png" alt="Teaser">
